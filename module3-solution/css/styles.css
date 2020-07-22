@@ -1,0 +1,32 @@
+
+h1 {
+	text-align: center;
+}
+
+nav {
+	background-color: grey;
+}
+
+button {
+	background-color: #99b0a1; 
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+#navbarc {
+	background-color: #e6f5dc;
+	text-align: center;
+}
+
+.menu-all {
+	margin: 20px;
+}
+
+.menu-text {
+	margin-top:20px;
+	background-color: #d4f2bf;
+	height: 1600px;
+}
+
