@@ -1,8 +1,3 @@
-
-h1 {
-	text-align: center;
-}
-
 nav {
 	background-color: grey;
 }
@@ -15,18 +10,28 @@ a:hover {
 	text-decoration: none;
 }
 
+#TopBtn {
+	position: absolute;
+	right: 0px;
+	bottom: 0px;
+
+}
+
 #navbarc {
 	background-color: #e6f5dc;
 	text-align: center;
 }
 
-.menu-all {
-	margin: 20px;
-}
-
 .menu-text {
+	padding: 7px;
 	margin-top:20px;
-	background-color: #d4f2bf;
 	height: 1600px;
 }
 
+.col-md-4 {
+	border-style: solid;
+	border-color: white;
+  	border-width: 7px;
+	background-color: grey;
+	float: left;
+}
